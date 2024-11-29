@@ -105,7 +105,7 @@ SNRdB = (0:0.1:20)';
 ---
 
 ## Citation
-For academic use, please cite our paper:
+
 M. Ying, F. B. Sarpkaya, S. Bakirtas, E. Erkip, T. S. Rappaport, and S. Rangan, "Capacity of a binary channel with a time-bounded adversary," in *2024 58th Asilomar Conference on Signals, Systems, and Computers*, Pacific Grove, CA, USA, Oct. 2024, pp. 1–5.
 
 
