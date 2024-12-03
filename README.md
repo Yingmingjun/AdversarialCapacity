@@ -55,7 +55,7 @@ Execute the script in MATLAB. The simulation will process all specified SNR leve
 | `N`           | Encoded block size (bits)                    | `25344`       |
 | `maxNumIter`  | Maximum number of decoding iterations        | `50`          |
 | `flipProb`    | Probability of bit flipping by the adversary | `0.01`        |
-| `numTrials`   | Number of trials for each SNR and method     | `1000`        |
+| `numTrials`   | Number of trials for each SNR and method     | `10000`        |
 | `SNRdB`       | Range of SNR values (dB)                     | `0:0.1:20`    |
 
 ## Notes
